@@ -7,6 +7,8 @@ Mirror from https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-fil
 
 All credits go to the authors of the cheat codes.
 
+https://github.com/ibnux/switch-cheat
+
 https://github.com/tomvita/NXCheatCode/releases
 
 https://github.com/tomvita/MyNXCheats/releases
