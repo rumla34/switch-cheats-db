@@ -6,3 +6,11 @@ A database of cheats for the Nintendo Switch. It updates once a day, see the dat
 Mirror from https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-file-updated.36311/ and https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats
 
 All credits go to the authors of the cheat codes.
+
+https://github.com/tomvita/NXCheatCode/releases
+
+https://github.com/tomvita/MyNXCheats/releases
+
+https://gbatemp.net/download/categories/cheats.1691/
+
+https://github.com/HamletDuFromage/switch-cheats-db/releases
